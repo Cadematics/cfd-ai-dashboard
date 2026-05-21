@@ -22,3 +22,5 @@ Unlike traditional Deep Learning surrogates that require massive datasets to tra
                                                                                     ▼
                                                                        [HTML5 Canvas 2D Viewport]
                                                                   (Dynamic Turbo-Jet Heatmap Rendering)
+```
+
