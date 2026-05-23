@@ -45,16 +45,26 @@ cfd-ai-dashboard/
 💻 Local Setup and Installation
 Follow these steps to get the interactive dashboard running on your local machine:
 1- Clone the repository:
+```text
 git clone [https://github.com/YOUR_USERNAME/cfd-ai-dashboard.git](https://github.com/YOUR_USERNAME/cfd-ai-dashboard.git)
 cd cfd-ai-dashboard
+```
+
 2- Install JavaScript dependencies:
+```text
 npm install
+```
+
 3- Incorporate your model assets:
 Ensure your generated fluid_model.onnx and fluid_model.onnx.data are located directly within the /public folder.
 4- Launch the local development environment:
+```text
 npm run dev
-Open your browser and navigate to the local address printed in the terminal (typically http://localhost:5173).
-
+```
+Open your browser and navigate to the local address printed in the terminal, typically:
+```text
+http://localhost:5173).
+```
 
 
 🧠 Behind the Physics Model (PyTorch Backend)
