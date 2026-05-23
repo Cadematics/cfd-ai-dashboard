@@ -48,7 +48,7 @@ Follow these steps to get the interactive dashboard running on your local machin
 1- Clone the repository:
 
 ```text
-git clone [https://github.com/YOUR_USERNAME/cfd-ai-dashboard.git](https://github.com/YOUR_USERNAME/cfd-ai-dashboard.git)
+git clone https://github.com/Cadematics/cfd-ai-dashboard.git
 cd cfd-ai-dashboard
 ```
 
