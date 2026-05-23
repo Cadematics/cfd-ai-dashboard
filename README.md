@@ -1,6 +1,6 @@
 # Real-Time CFD Parametric PINN Dashboard
 
-A cutting-edge, interactive web application that evaluates a **Parametric Physics-Informed Neural Network (PINN)** entirely on the client side. The dashboard uses **WebAssembly (WASM)** to run real-time fluid dynamics inference directly in the browser, allowing users to manipulate fluid velocity and viscosity coefficients via UI sliders and see instantaneous flow-field deformations.
+An interactive web application that evaluates a **Parametric Physics-Informed Neural Network (PINN)** entirely on the client side. The dashboard uses **WebAssembly (WASM)** to run real-time fluid dynamics inference directly in the browser, allowing users to manipulate fluid velocity and viscosity coefficients via UI sliders and see instantaneous flow-field deformations.
 
 ---
 
