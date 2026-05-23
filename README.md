@@ -28,6 +28,7 @@ Unlike traditional Deep Learning surrogates that require massive datasets to tra
 
 
 📂 Repository Structure
+```text
 cfd-ai-dashboard/
 ├── public/
 │   ├── fluid_model.onnx       # Compiled PyTorch 2.x Neural Graph Topology
@@ -38,7 +39,7 @@ cfd-ai-dashboard/
 ├── vercel.json                # Network Routing Configurations for External Binary Streams
 ├── package.json               # JavaScript Package Dependencies
 └── README.md                  # Project Documentation
-
+```
 
 
 💻 Local Setup and Installation
